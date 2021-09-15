@@ -332,7 +332,7 @@ h3 {
 		.stripNav ul li {
 			float: left;
 			margin-right: 40px; /* If you change this, be sure to adjust the initial value of navWidth in coda-slider.1.1.1.js */
-			background: url(../images/templatemo_menu_divider.png) top right no-repeat;
+/* 			background: url(../images/templatemo_menu_divider.png) top right no-repeat; */
 		}
 		
 		.stripNav a { /* The nav links */
@@ -389,11 +389,11 @@ h3 {
 	}
 	
 	.stripNavL {
-		background: url("../images/arrow-left.gif") no-repeat center;
+/* 		background: url("../images/arrow-left.gif") no-repeat center; */
 	}
 	
 	.stripNavR {
-		background: url("../images/arrow-right.gif") no-repeat center;
+/* 		background: url("../images/arrow-right.gif") no-repeat center; */
 	}
 .next11 {
    position: absolute;
