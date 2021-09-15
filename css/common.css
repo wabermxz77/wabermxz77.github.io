@@ -395,3 +395,8 @@ h3 {
 	.stripNavR {
 		background: url("../images/arrow-right.gif") no-repeat center;
 	}
+.next11 {
+   position: relative;
+   bottom: 10px;
+	
+}
