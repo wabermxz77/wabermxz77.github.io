@@ -396,7 +396,7 @@ h3 {
 		background: url("../images/arrow-right.gif") no-repeat center;
 	}
 .next11 {
-   position: relative;
+   position: absolute;
    bottom: 0px;
 	
 }
